@@ -206,4 +206,4 @@ CloudLaunch is a lightweight platform demonstrating AWS core services including 
 ---
 
 - **Submitted by**: Salman-Yusuf Khalid Olaniyi
-- **Project Repository**: https://github.com/[your-username]/cloudlaunch-aws-project
+- **Project Repository**: https://github.com/salskhal/cloudlaunch-aws-project
