@@ -37,7 +37,7 @@ CloudLaunch is a lightweight platform demonstrating AWS core services including 
         {
             "Sid": "ListAllBuckets",
             "Effect": "Allow",
-            ""Action": [
+            "Action": [
         "s3:ListAllMyBuckets",
         "s3:GetBucketLocation"
       ],
